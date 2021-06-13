@@ -1,0 +1,7 @@
+jupyter
+pandas
+sklearn
+seaborn
+xgboost
+streamlit==0.82
+tabulate
